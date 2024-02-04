@@ -2,10 +2,10 @@
 clear
 echo -e "\033[33m# //====================================\e[0m"
 echo -e "\033[33m# // System Request:Debian 10/Ubuntu 20.04\e[0m"
-echo -e "\033[33m# // Author: Yogz KYT\e[0m"
+echo -e "\033[33m# // Author: KARLVPNSTORE\e[0m"
 echo -e "\033[33m# // Description: Xray Menu Management\e[0m"
-echo -e "\033[33m# // email: admin@yogz.com\e[0m"
-echo -e "\033[33m# // telegram: t.me/YSSHstore\e[0m"
+echo -e "\033[33m# // email: no\e[0m"
+echo -e "\033[33m# // telegram: t.me/karlstore0\e[0m"
 echo -e "\033[33m# //====================================\e[0m"
 sleep 1
 Green="\e[92;1m"
@@ -33,7 +33,7 @@ LOGO() {
     echo -e " ───│    $Green┌─┐┬ ┬┌┬┐┌─┐┌─┐┌─┐┬─┐┬┌─┐┌┬┐  ┬  ┬┌┬┐┌─┐$NC   │───"
     echo -e " ───│    $Green├─┤│ │ │ │ │└─┐│  ├┬┘│├─┘ │   │  │ │ ├┤ $NC   │───"
     echo -e " ───│    $Green┴ ┴└─┘ ┴ └─┘└─┘└─┘┴└─┴┴   ┴   ┴─┘┴ ┴ └─┘$NC   │───"
-    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/fightertunnell$NC   │"
+    echo -e "    │    ${YELLOW}Copyright${FONT} (C)${GRAY}https://t.me/karlstore0$NC   │"
     echo -e "    └───────────────────────────────────────────────┘"
     echo -e "         ${RED}Autoscript xray vpn lite (multi port)${FONT}    "
     echo -e "${RED}Make sure the internet is smooth when installing the script${FONT}"
@@ -52,10 +52,10 @@ clear;clear;clear
 
   # // Banner
 echo -e "${RED}─────────────────────────────────────────────────${NC}"
-echo -e "  Welcome To YSSHstore Project Script Installer ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To Karl Script${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e "     This Will Quick Setup VPN Server On Your Server"
-echo -e "         Author : ${green}KYT  ${NC}${YELLOW}(${NC} ${green}Project ${NC}${YELLOW})${NC}"
-echo -e "       © Recode By YSSHstore ${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
+echo -e "         Author : ${green}Karl Tech  ${NC}${YELLOW}(${NC} ${green}Project ${NC}${YELLOW})${NC}"
+echo -e "       © Recode By Karl tech${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${RED}─────────────────────────────────────────────────${NC}"
 echo ""
 sleep 4
@@ -77,8 +77,8 @@ checking_sc() {
     echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
     echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
     echo -e "             \033[0;33mContact Admin :${NC}"
-    echo -e "      \033[0;36mTelegram${NC} t.me/YSSHstore"
-    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6281215360549"
+    echo -e "      \033[0;36mTelegram${NC} t.me/karlstore0"
+    echo -e "      ${GREEN}WhatsApp${NC} wa.me/6285965046549"
     echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
     exit
   fi
@@ -173,7 +173,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO    
-    REPO="https://raw.githubusercontent.com/KARLTECHH/v3/main/"
+    REPO="https://raw.githubusercontent.com/KARLTECHH/autoscript/main/"
 
 ####
 start=$(date +%s)
@@ -380,8 +380,8 @@ function notif_bot() {
 <code>EXP.SC : </code><code>$EXPSC</code>
 <code>────────────────────</code>
 <i>Automatic Notification From</i>
-<i>Github YSSHstore</i> 
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ🐳","url":"https://t.me/YSSHstore"},{"text":"ɪɴꜱᴛᴀʟʟ🐬","url":"https://t.me/info_autoscript/2"}]]}'
+<i>Github karlstore0</i> 
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ🐳","url":"https://t.me/karlstore0"},{"text":"ɪɴꜱᴛᴀʟʟ🐬","url":"https://t.me/karlstore0/2"}]]}'
 
    curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
